@@ -129,13 +129,4 @@ jupyter notebook notebooks/Unemployment_Analysis_India.ipynb
 
 ---
 
-## 👤 Author
 
-**[Your Name]**  
-Data Science Intern @ CodeAlpha  
-📧 your.email@example.com  
-🔗 [LinkedIn](https://linkedin.com/in/yourprofile) | [GitHub](https://github.com/yourusername)
-
----
-
-*Made with ❤️ and Python | CodeAlpha Internship 2024*
