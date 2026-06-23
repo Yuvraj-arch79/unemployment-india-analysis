@@ -2,7 +2,7 @@
 ### Impact of COVID-19 on India's Labour Market
 
 <p align="center">
-  <img src="outputs/01_national_trend.png" alt="National Trend" width="100%">
+<img src="01_national_trend.png"
 </p>
 
 > **CodeAlpha Data Science Internship | Task 2**  
